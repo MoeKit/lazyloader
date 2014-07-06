@@ -51,9 +51,9 @@ seajs.use('index',function(Lazyloader){
         effect:'fadeIn',
         event : "click"
     }).on('all',function(event,a){
-        console.log(event,a);
+        //console.log(event,a);
     })
-    console.log(lazy);
+    //console.log(lazy);
 });
 ````
 
